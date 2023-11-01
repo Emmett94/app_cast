@@ -2,6 +2,12 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Debt Now App - Appcast</title>
+                <item>
+            <title>Version 1.15.1</title>
+            <description>Minor updates and improvements.222</description>
+            <pubDate>Sun, 30 Dec 2019 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="2.9.1" sparkle:os="ios" />
+        </item>
         <item>
             <title>Version 1.15.0</title>
             <description>Minor updates and improvements.111</description>
@@ -13,6 +19,12 @@
             <description>Minor updates and improvements.222</description>
             <pubDate>Sun, 30 Dec 2019 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="2.9.3" sparkle:os="ios" />
+        </item>
+                <item>
+            <title>Version 1.15.1</title>
+            <description>Minor updates and improvements.222</description>
+            <pubDate>Sun, 30 Dec 2019 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="2.9.4" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
